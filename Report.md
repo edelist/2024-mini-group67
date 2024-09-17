@@ -9,6 +9,10 @@ Code plays "Twinkle Twinkle Little Star" in exercise_sound.py
 
 # Exercise 3:
 
+Demo video: https://drive.google.com/file/d/1QrDiD9hh6YYKJiPKIBeLKn6peMoz_0ru/view?usp=sharing
+
+Please see "assignment" directory for the script and Firebase rules.
+
 ## Design Decisions
 ### 1. Platform and Hardware:
 Raspberry Pi Pico used as the microcontroller.
